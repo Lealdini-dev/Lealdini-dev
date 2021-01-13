@@ -1,17 +1,7 @@
 # Hey, what's up with you? 
 
 ## Who am I?
-**_Name:_**
-> Fábio Lealdini Moreira
-<br/>
-**_Age:_** 
-> 25 years old
-<br/>
-**_Nationality:_**
-> Brazilian
-<br/>
-**_Profession:_**
-> Software Developer
+> My name is Fábio, I'm 25 years old, I'm from brazil and finally I'm a full time software developer and often in my spare time too.
 
 ### Languages and level 
 |  Languages |   Level  |
