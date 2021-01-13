@@ -1,13 +1,16 @@
 # Hey, what's up with you? 
 
 ## Who am I?
-Name: 
+**_Name:_**
 > Fábio Lealdini Moreira
-Age: 
+</br>
+**_Age:_** 
 >25 years old
-Nationality:
+</br>
+**_Nationality:_**
 > Brazilian
-Profession: 
+</br>
+**_Profession:_**
 > Software Developer
 
 ### Languages and level 
